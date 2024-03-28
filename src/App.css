@@ -1,0 +1,27 @@
+.navbar{
+  display:flex;
+  justify-content: space-around;
+  height:20vh;
+  align-items: center;
+}
+.logo{
+  color:white;
+}
+.cities-button{
+  background-color: transparent;
+  color:white;
+  font-size:2vw;
+  border-radius:12px;
+  outline:none;
+  border:none;
+  text-decoration:none;
+  height:3vw;
+}
+.cities-button:hover{
+  background-color: lightslategray;
+}
+.main-content{
+  height:80vh;
+  display:flex;
+  justify-content:space-around;
+}

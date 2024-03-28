@@ -1,0 +1,42 @@
+.search{
+    text-align:center;
+    padding-top:4vh;
+}
+
+.input-city{
+    font-size:3vw;
+    border-top-left-radius:15px;
+    border-bottom-left-radius:15px;
+    color:darkorchid;
+    padding-left:1%;
+
+    outline:none;
+}
+.add-btn{
+    background:green;
+    border-top-right-radius:15px;
+    border-bottom-right-radius:15px;
+    display:inline;
+    color:white;
+    font-size:3vw;
+    margin-right:auto;
+}
+.India-cities , .Top-cities{
+    margin-top:4vh;
+}
+.heading{
+    color:#87878a;
+    
+}
+.sugested-city{
+    margin:0.6vw;
+    color:white;
+    background-color:transparent;
+    border:1px solid white;
+    padding:1vw;
+    border-radius:5px;
+    font-size:1.5vw;
+}
+.sugested-city:hover{
+    background-color:darkgray;
+} 

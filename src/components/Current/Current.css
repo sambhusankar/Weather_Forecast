@@ -1,0 +1,25 @@
+.current{
+    color:white;
+    
+    text-align:left;
+   margin-top:18vh;
+  
+}
+.celcius{
+   
+    font-size:8vw;
+    margin-right:10px;
+    display:inline;
+    margin-bottom:0;
+}
+.degree{
+    font-size:4vw;
+}
+.city{
+    font-size:3vw;
+    margin-top:0;
+    margin-bottom:0;
+}
+.icon{
+    font-size:5vw;
+}
